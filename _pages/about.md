@@ -12,6 +12,6 @@ I'm a third year undergraduate student from Hohai University(https://www.hhu.edu
 
 I am very fortunate to be advised by Prof. Xie(https://jszy.hhu.edu.cn/xzp/)  from Hohai University(https://www.hhu.edu.cn/).
 
-You can find my CV here:(../assets/Curriculum_Vitae.pdf).
+You can find my CV here:[Xiangbin Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:xbchen@hhu.edu.cn) / [Github](https://github.com/1usernamesss)
